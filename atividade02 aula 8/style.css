@@ -1,0 +1,40 @@
+.supernova {
+    background-image: url("noah.jfif");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.form-all {
+    background: none !important;
+    box-shadow: none;
+}
+body, .form-all {
+    margin-top: 0;
+}
+.form-header-group, [data-type="control_head"] {
+    background-color: #c9daf8;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.form-subHeader {
+    color: #00b000 !important;
+}
+.form-sub-label {
+    color: #ffb21d;
+}
+.form-line-active {
+    background: #ccffcc;
+}
+.form-required {
+    color: cyan !important;
+}
+.form-all {
+    margin: 0;
+}
